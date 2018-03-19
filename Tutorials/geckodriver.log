@@ -1,0 +1,104 @@
+1499877050130	geckodriver	INFO	Listening on 127.0.0.1:62828
+1499877052184	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499877053773	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877057644	Marionette	INFO	Listening on port 62834
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877058214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+1499877061740	Marionette	INFO	Ceased listening
+1499877067845	geckodriver	INFO	Listening on 127.0.0.1:62873
+1499877070209	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499877074337	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877079283	Marionette	INFO	Listening on port 62881
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877080447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+console.error: CustomizeMode: 
+  Message: [Exception... "AddonManager is not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/AddonManager.jsm :: notifyAddonChanged :: line 1761"  data: no]
+  Stack:
+    notifyAddonChanged@resource://gre/modules/AddonManager.jsm:1761:13
+notifyAddonChanged@resource://gre/modules/AddonManager.jsm:3187:5
+_setCurrentTheme@resource://gre/modules/LightweightThemeManager.jsm:705:3
+set currentTheme@resource://gre/modules/LightweightThemeManager.jsm:151:12
+_resetUIState@resource://app/modules/CustomizableUI.jsm:2533:5
+reset@resource://app/modules/CustomizableUI.jsm:2504:5
+reset@resource://app/modules/CustomizableUI.jsm:3478:5
+reset/<@resource://app/modules/CustomizeMode.jsm:1121:7
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2010: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: chrome://mozapps/content/extensions/extensions.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIControllers.removeController]
+1499877133483	Marionette	INFO	Ceased listening
+1499877414310	geckodriver	INFO	Listening on 127.0.0.1:63050
+1499877416322	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499877417451	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877420653	Marionette	INFO	Listening on port 63056
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499877420749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+1499877424778	Marionette	INFO	Ceased listening
+1499881265253	geckodriver	INFO	Listening on 127.0.0.1:63982
+1499881267361	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499881269257	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499881273798	Marionette	INFO	Listening on port 63992
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499881274040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+1499881291462	Marionette	INFO	Ceased listening
+1499882048945	geckodriver	INFO	Listening on 127.0.0.1:64287
+1499882051019	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499882052662	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882056349	Marionette	INFO	Listening on port 64293
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882056582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1499882711457	Marionette	INFO	Ceased listening
+S/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882708540	Marionette	INFO	Ceased listening
+NOT_INITIALIZED: AddonManager is not initialized
+1499882249839	Marionette	INFO	Listening on port 64395
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882250054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1499882703849	Marionette	INFO	Ceased listening
+.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882259453	Marionette	INFO	Listening on port 64438
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1499882259723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1499882696692	Marionette	INFO	Ceased listening
+1499976339711	geckodriver	INFO	geckodriver 0.18.0
+1499976339725	geckodriver	INFO	Listening on 127.0.0.1:65000
+1499976342750	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499976357956	Marionette	INFO	Listening on port 65006
+1499976358457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 536: TypeError: this.tablesData[table] is undefined
+1499976364520	Marionette	INFO	Ceased listening
